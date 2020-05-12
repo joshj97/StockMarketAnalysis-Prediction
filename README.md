@@ -1,1 +1,2 @@
-Stock market analsis with python tools with pandas Numpy Matplotlib, seabon, Times series, Scatter Matrix Some of the tools are used for machine learning models for prediction
+This is a 4900 Group Research Project that conducted Stock market analsis with python tools such as Pandas, Numpy,Matplotlib, Seabon, Times series, Scatter Matrix Plot. Some of the tools are used for machine learning models for prediction such as 
+Linear Regression, and SVR Models. We atttempted to use LSTM in order to create our prediction for the stock price of our respective companies. **NOTE: PLEASE DO NOT USE OUR MODELS OR PREDICTION AS A MEANS TO BUY/SELL STOCK. THIS WAS ONLY MEANT FOR A CS RESEARCH COURSE, ANY INVESTMENT MADE IS DONE ON YOUR OWN ACCORD** 
